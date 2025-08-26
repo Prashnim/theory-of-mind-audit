@@ -28,7 +28,7 @@ This is a small-scale experiment testing whether AI language models can demonstr
 - The notebook shows which scenarios were correct vs incorrect and the overall AI performance
 
 ## How to Run
-1. Open 'AI_Theory_of_Mind.ipynb'
+1. Open 'ai-theory-of-mind-hugging-face.ipynb'
 2. Install dependencies:  
    !pip install transformers fuzzywuzzy python-Levenshtein matplotlib pandas
 3. Run all cells
